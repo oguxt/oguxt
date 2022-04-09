@@ -30,6 +30,6 @@ Estudo Front End e Back end, mais especificamente HTML, CSS, LUA, pouco de JS. N
 
   
 
-  ![Snake animation](https://github.com/PauloCastro17/PauloCastro17/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/PauloCastro17/ogux/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
