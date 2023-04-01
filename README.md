@@ -27,6 +27,5 @@
 [lua]: https://www.lua.org/
 [cs]: https://www.w3schools.com/cs/
 [sql]: https://www.w3schools.com/sql/
-[git]: https://git-scm.com/
-[github]: oguxt
+[github]: https://github.com/oguxt
 [node]: https://nodejs.org/
