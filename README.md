@@ -1,32 +1,37 @@
-## Olá!
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][w3html5]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
+[<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />][lua]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][kali]
+
+<br />
+<br />
 
 
-<div>
-<h3>Sobre mim:</h3>
-Estudo Front End e Back end, mais especificamente HTML, CSS, LUA, pouco de JS. Nesse GITHUB vão encontrar vários projetos que vou fazendo pra poder estudar.
-</div>
-
-##
- <div>
-  <a href="https://https://github.com/oguxt">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloCastro17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCastro17&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Guxt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Guxt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Guxt-Lua" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">
-  <img align="center" alt="Guxt-VSCODE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> 
-<!-- <img align="center" alt="Catro-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">  -->
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/guxt_011" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-  
-
-<!--   ![Snake animation](https://github.com/PauloCastro17/ogux/blob/output/github-contribution-grid-snake.svg) -->
- 
-</div>
+[twitter]: https://twitter.com/ogreinreal
+[instagram]: https://instagram.com/matheusgrein
+[vsc]: https://code.visualstudio.com/
+[w3html5]: https://www.w3schools.com/html/
+[css3]: https://www.w3schools.com/css/
+[js]: https://www.w3schools.com/js/
+[lua]: https://www.lua.org/
+[cs]: https://www.w3schools.com/cs/
+[cpp]: https://www.w3schools.com/cpp/
+[sql]: https://www.w3schools.com/sql/
+[git]: https://git-scm.com/
+[github]: mgrein
+[kali]: https://www.kali.org/
+[node]: https://nodejs.org/
