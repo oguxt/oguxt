@@ -29,9 +29,7 @@
 [js]: https://www.w3schools.com/js/
 [lua]: https://www.lua.org/
 [cs]: https://www.w3schools.com/cs/
-[cpp]: https://www.w3schools.com/cpp/
 [sql]: https://www.w3schools.com/sql/
 [git]: https://git-scm.com/
-[github]: mgrein
-[kali]: https://www.kali.org/
+[github]: oguxt
 [node]: https://nodejs.org/
