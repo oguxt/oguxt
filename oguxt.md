@@ -18,6 +18,9 @@
 <br />
 <br />
 
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-74t46veaz-oguxt.vercel.app/api/spotify)](https://open.spotify.com/user/VGZ4D4)
+
 [instagram]: https://instagram.com/guxt_011
 [vsc]: https://code.visualstudio.com/
 [w3html5]: https://www.w3schools.com/html/
