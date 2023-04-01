@@ -20,9 +20,7 @@
 <br />
 <br />
 
-
-[twitter]: https://twitter.com/ogreinreal
-[instagram]: https://instagram.com/matheusgrein
+[instagram]: https://instagram.com/guxt_011
 [vsc]: https://code.visualstudio.com/
 [w3html5]: https://www.w3schools.com/html/
 [css3]: https://www.w3schools.com/css/
