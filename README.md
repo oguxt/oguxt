@@ -3,7 +3,7 @@
 
 <div>
 <h3>Sobre mim:</h3>
-Estudo Front End e Back end, mais especificamente HTML, CSS, LUA, pouco de JS. Nesse GITHUB vão encontrar vários projetos que vou fazendo pra poder estudar, nada tão profissional, mas é o bastante.
+Estudo Front End e Back end, mais especificamente HTML, CSS, LUA, pouco de JS. Nesse GITHUB vão encontrar vários projetos que vou fazendo pra poder estudar.
 </div>
 
 ##
@@ -15,9 +15,6 @@ Estudo Front End e Back end, mais especificamente HTML, CSS, LUA, pouco de JS. N
 <div style="display: inline_block"><br>
   <img align="center" alt="Guxt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guxt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="center" alt="Castro-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"> -->
-<!--   <img align="center" alt="Castro-MYSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> -->
-<!--   <img align="center" alt="Castro-FIGMA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> -->
   <img align="center" alt="Guxt-Lua" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">
   <img align="center" alt="Guxt-VSCODE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> 
 <!-- <img align="center" alt="Catro-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">  -->
