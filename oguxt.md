@@ -19,7 +19,9 @@
 <br />
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-74t46veaz-oguxt.vercel.app/api/spotify)](https://open.spotify.com/user/VGZ4D4)
+[![Spotify](https://novatorem-hfin5iqa4-oguxt.vercel.app/api/spotify)](https://open.spotify.com/user/Gustavo)
+
+
 
 [instagram]: https://instagram.com/guxt_011
 [vsc]: https://code.visualstudio.com/
