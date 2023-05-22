@@ -1,6 +1,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkdin]
 
 <br />
 
@@ -17,10 +18,16 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 
 <br />
+
+### Developer working:
+[<img align="left" alt="React" width="26px" src="https://cdn.discordapp.com/attachments/1092850614356148364/1110038379137081364/tr.png" />][trust]
+
 <br />
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-hfin5iqa4-oguxt.vercel.app/api/spotify)](https://open.spotify.com/user/Gustavo)
+
+
 
 
 
@@ -34,4 +41,6 @@
 [sql]: https://www.w3schools.com/sql/
 [github]: https://github.com/oguxt
 [node]: https://nodejs.org/
-[react]: https://legacy.reactjs.org
+[react]: https://legacy.reactjs.org/docs/getting-started.html
+[trust]: https://trustsecurity.com.br
+[linkdin]: https://www.linkedin.com/in/gustavo-matozo-ab7ba3263/
