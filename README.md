@@ -1,6 +1,5 @@
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkdin]
 
 <br />
@@ -34,7 +33,6 @@
 
 
 
-[instagram]: https://instagram.com/guxt_011
 [vsc]: https://code.visualstudio.com/
 [w3html5]: https://www.w3schools.com/html/
 [css3]: https://www.w3schools.com/css/
