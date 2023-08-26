@@ -1,6 +1,6 @@
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkdin]
+[<img align="left" alt="codeSTACKr | Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkdin]
 
 <br />
 <br />
@@ -20,7 +20,9 @@
 <br />
 
 ### Developer working:
-[<img align="left" alt="React" width="26px" src="https://cdn.discordapp.com/attachments/1092850614356148364/1110038379137081364/tr.png" />][trust]
+[<img align="left" alt="Trust Security" width="26px" src="https://cdn.discordapp.com/attachments/1092850614356148364/1110038379137081364/tr.png" />][trust] 
+[<img align="left" alt="InnovateCode Group" height="40px" width="40px" src="https://cdn.discordapp.com/attachments/1092850614356148364/1144828098068619274/Favicon.png" />][Innovate]
+
 
 <br />
 <br />
@@ -42,4 +44,5 @@
 [node]: https://nodejs.org/
 [react]: https://legacy.reactjs.org/docs/getting-started.html
 [trust]: https://trustsecurity.com.br
+[Innovate]: https://github.com/oguxt
 [linkdin]: https://www.linkedin.com/in/gustavo-matozo-ab7ba3263/
