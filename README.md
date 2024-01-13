@@ -21,6 +21,7 @@
 
 ### Developer working:
 [<img align="left" alt="InnovateCode Group" height="40px" width="40px" src="https://cdn.discordapp.com/attachments/1092850614356148364/1144828098068619274/Favicon.png" />][Innovate]
+[<img align="left" alt="React" width="26px" src="https://cdn.discordapp.com/attachments/1092850614356148364/1110038379137081364/tr.png" />][trust]
 
 
 <br />
@@ -34,6 +35,7 @@
 
 
 [vsc]: https://code.visualstudio.com/
+[trust]: https://trustsecurity.com.br
 [w3html5]: https://www.w3schools.com/html/
 [css3]: https://www.w3schools.com/css/
 [js]: https://www.w3schools.com/js/
