@@ -20,8 +20,8 @@
 <br />
 
 ### Developer working:
-[<img align="left" alt="InnovateCode Group" height="40px" width="40px" src="https://cdn.discordapp.com/attachments/1092850614356148364/1144828098068619274/Favicon.png" />][Innovate]
-[<img align="left" alt="React" width="26px" src="https://cdn.discordapp.com/attachments/1092850614356148364/1110038379137081364/tr.png" />][trust]
+[<img align="left" alt="Square Event" width="60px" src="https://cdn.discordapp.com/attachments/1069716005925965876/1203854753797242951/SemBackground.png?ex=65d29c1b&is=65c0271b&hm=490ed01fb97f61d4d0c3cf1701becb47bc5dc562e1897aaac8431e27297bdb6c&" />][Square]
+[<img align="left" alt="InnovateCode Group" width="60px" src="https://cdn.discordapp.com/attachments/1092850614356148364/1144828098068619274/Favicon.png" />][Innovate]
 
 
 <br />
@@ -35,7 +35,7 @@
 
 
 [vsc]: https://code.visualstudio.com/
-[trust]: https://trustsecurity.com.br
+[Square]: https://github.com/oguxt
 [w3html5]: https://www.w3schools.com/html/
 [css3]: https://www.w3schools.com/css/
 [js]: https://www.w3schools.com/js/
