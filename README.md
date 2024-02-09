@@ -20,6 +20,7 @@
 <br />
 
 ### Developer working:
+[<img align="left" alt="DUTH GG" width="45px" src="https://cdn.discordapp.com/attachments/1203858042714595398/1203899042841624586/logo.png?ex=65d2c55b&is=65c0505b&hm=1e4a0fd1a31fe8d95c840b862354eb19a9af239a0fb905da265c20bc2d66c7fa&" />][duth]
 [<img align="left" alt="Square Event" width="60px" src="https://cdn.discordapp.com/attachments/1069716005925965876/1203854753797242951/SemBackground.png?ex=65d29c1b&is=65c0271b&hm=490ed01fb97f61d4d0c3cf1701becb47bc5dc562e1897aaac8431e27297bdb6c&" />][Square]
 [<img align="left" alt="InnovateCode Group" width="60px" src="https://cdn.discordapp.com/attachments/1092850614356148364/1144828098068619274/Favicon.png" />][Innovate]
 
@@ -35,6 +36,7 @@
 
 
 [vsc]: https://code.visualstudio.com/
+[duth]: https://github.com/oguxt
 [Square]: https://github.com/oguxt
 [w3html5]: https://www.w3schools.com/html/
 [css3]: https://www.w3schools.com/css/
