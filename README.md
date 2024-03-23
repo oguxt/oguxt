@@ -20,10 +20,9 @@
 <br />
 
 ### Developer working:
+[<img align="left" alt="InnovateCode Group" width="60px" src="https://oficialiplanet.com.br/cdn/shop/files/WhatsApp_Image_2023-11-23_at_17.16.20_100x@2x.jpg?v=1700770611" />][IPlanet]
 [<img align="left" alt="Purple Sync" width="45px" src="https://cdn.discordapp.com/attachments/1202806523252965499/1212416856862892073/logo_white.jpg?ex=65f1c230&is=65df4d30&hm=ad69d6e7dd35278d0c7a5b82831f956a59df32e7b286296a483272d516790e5a&" />][sync]
-[<img align="left" alt="DUTH GG" width="45px" src="https://cdn.discordapp.com/attachments/1203858042714595398/1203899042841624586/logo.png?ex=65ee74db&is=65dbffdb&hm=c82f58d58b0fbaf4cc019e32381cef3081e980bdaf963ab00e5a8a1900e751b7&" />][duth]
 [<img align="left" alt="Square Event" width="46px" src="https://cdn.discordapp.com/attachments/1202806523252965499/1212416917952790528/Black.png?ex=65f1c23e&is=65df4d3e&hm=ae902be077fe23b14b22742478869c8d2756bd7832165fd13d345d91657e9b9e&" />][Square]
-[<img align="left" alt="InnovateCode Group" width="60px" src="https://cdn.discordapp.com/attachments/1092850614356148364/1144828098068619274/Favicon.png?ex=65ebd040&is=65d95b40&hm=634e9b3cd9e4804e3f22fc8417e26c8cb69963036273e869e54e9682c57f5920&" />][Innovate]
 
 
 <br />
@@ -48,5 +47,5 @@
 [node]: https://nodejs.org/
 [react]: https://legacy.reactjs.org/docs/getting-started.html
 [next]: https://nextjs.org
-[Innovate]: https://github.com/oguxt
+[IPlanet]: https://www.instagram.com/iplanet.oficial/
 [linkdin]: https://www.linkedin.com/in/gustavo-matozo-ab7ba3263/
