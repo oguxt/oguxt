@@ -16,6 +16,9 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="NextJS" width="26px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />][next]
+[<img align="left" alt="Prisma" width="56px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS86mdbe9sOWBN4dRN13_XM4pV20VDZXJ6dh5IrWEeF_A&s" />][prisma]
+[<img align="left" alt="Typescript" width="26px" src="https://static-00.iconduck.com/assets.00/typescript-plain-icon-256x256-ypojgpyj.png"/>][ts]
+
 
 <br />
 
@@ -32,8 +35,8 @@
 [![Spotify](https://novatorem-hfin5iqa4-oguxt.vercel.app/api/spotify)](https://open.spotify.com/user/Gustavo)
 
 
-
-
+[ts]: https://www.typescriptlang.org/docs/
+[prisma]: https://www.prisma.io/docs/getting-started/quickstart
 [sync]: https://github.com/purple-sync
 [vsc]: https://code.visualstudio.com/
 [duth]: https://github.com/oguxt
