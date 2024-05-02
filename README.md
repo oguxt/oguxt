@@ -15,14 +15,14 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="React" width="26px" src="https://cdn.discordapp.com/attachments/1092850614356148364/1171645832655810570/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67.png?ex=65f11736&is=65dea236&hm=ceedc15462b716ed16c51f0300e410a02605731c48b09637be085c6f4c401b84&" />][next]
+[<img align="left" alt="NextJS" width="26px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />][next]
 
 <br />
 
 ### Developer working:
 [<img align="left" alt="InnovateCode Group" width="60px" src="https://oficialiplanet.com.br/cdn/shop/files/WhatsApp_Image_2023-11-23_at_17.16.20_100x@2x.jpg?v=1700770611" />][IPlanet]
-[<img align="left" alt="Purple Sync" width="45px" src="https://cdn.discordapp.com/attachments/1202806523252965499/1212416856862892073/logo_white.jpg?ex=65f1c230&is=65df4d30&hm=ad69d6e7dd35278d0c7a5b82831f956a59df32e7b286296a483272d516790e5a&" />][sync]
-[<img align="left" alt="Square Event" width="46px" src="https://cdn.discordapp.com/attachments/1202806523252965499/1212416917952790528/Black.png?ex=65f1c23e&is=65df4d3e&hm=ae902be077fe23b14b22742478869c8d2756bd7832165fd13d345d91657e9b9e&" />][Square]
+[<img align="left" alt="Purple Sync" width="45px" src="https://i.imgur.com/DfV6tO8.jpeg" />][sync]
+[<img align="left" alt="Square Event" width="46px" src="https://i.imgur.com/bZddBE7.png" />][Square]
 
 
 <br />
