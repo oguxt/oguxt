@@ -23,9 +23,7 @@
 <br />
 
 ### Developer working:
-[<img align="left" alt="InnovateCode Group" width="60px" src="https://oficialiplanet.com.br/cdn/shop/files/WhatsApp_Image_2023-11-23_at_17.16.20_100x@2x.jpg?v=1700770611" />][IPlanet]
-[<img align="left" alt="Purple Sync" width="45px" src="https://i.imgur.com/DfV6tO8.jpeg" />][sync]
-[<img align="left" alt="Square Event" width="46px" src="https://i.imgur.com/bZddBE7.png" />][Square]
+[<img align="left" alt="InnovateCode Group" width="40px" src="https://trust-gps.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-trust-novo.fe205ec6.png&w=32&q=75" />][Trust]
 
 
 <br />
@@ -35,12 +33,11 @@
 [![Spotify](https://novatorem-hfin5iqa4-oguxt.vercel.app/api/spotify)](https://open.spotify.com/user/Gustavo)
 
 
+[Trust]: https://github.com/oguxt
 [ts]: https://www.typescriptlang.org/docs/
 [prisma]: https://www.prisma.io/docs/getting-started/quickstart
-[sync]: https://github.com/purple-sync
 [vsc]: https://code.visualstudio.com/
 [duth]: https://github.com/oguxt
-[Square]: https://github.com/oguxt
 [w3html5]: https://www.w3schools.com/html/
 [css3]: https://www.w3schools.com/css/
 [js]: https://www.w3schools.com/js/
@@ -50,5 +47,4 @@
 [node]: https://nodejs.org/
 [react]: https://legacy.reactjs.org/docs/getting-started.html
 [next]: https://nextjs.org
-[IPlanet]: https://www.instagram.com/iplanet.oficial/
 [linkdin]: https://www.linkedin.com/in/gustavo-matozo-ab7ba3263/
