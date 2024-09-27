@@ -22,11 +22,7 @@
 
 <br />
 
-### Developer working:
-[<img align="left" alt="InnovateCode Group" width="40px" src="https://trust-gps.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-trust-novo.fe205ec6.png&w=32&q=75" />][Trust]
 
-
-<br />
 <br />
 
 ### Spotify Playing 🎧
