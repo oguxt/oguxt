@@ -1,46 +1,76 @@
-### Connect with me:
+<h1 align="center">👋 Olá, eu sou o Gustavo Matozo</h1>
 
-[<img align="left" alt="codeSTACKr | Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkdin]
+<p align="center">
+  Desenvolvedor <strong>Full Stack</strong> com foco em aplicações web modernas e performáticas.<br/>
+  Especializado em <strong>Next.js, React, Node.js</strong> e tecnologias modernas do ecossistema JavaScript.
+</p>
 
-<br />
-<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-matozo-ab7ba3263/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/oguxt" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=oguxt&style=for-the-badge&color=blue" alt="profile views" />
+</p>
 
-### Languages and Tools:
+---
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][w3html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="NextJS" width="26px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />][next]
-[<img align="left" alt="Prisma" width="56px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS86mdbe9sOWBN4dRN13_XM4pV20VDZXJ6dh5IrWEeF_A&s" />][prisma]
-[<img align="left" alt="Typescript" width="26px" src="https://static-00.iconduck.com/assets.00/typescript-plain-icon-256x256-ypojgpyj.png"/>][ts]
+## 🚀 O que estou fazendo agora
 
+- 👨‍💻 Trabalhando em projetos próprios para desenvolver:
+  - 🔐 Autenticação segura com JWT e cookies
+  - 🎨 Ferramentas interativas com canvas e edição de imagem
+  - 🧰 APIs RESTful e GraphQL escaláveis
+- 📚 Estudando arquitetura limpa, testes automatizados e CI/CD
+- 💡 Me aprofundando em performance e experiência do usuário
 
-<br />
+---
 
+## 🧰 Stack principal
 
-<br />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma ORM" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" />
+</div>
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem-hfin5iqa4-oguxt.vercel.app/api/spotify)](https://open.spotify.com/user/Gustavo)
+---
 
+## 📊 GitHub Insights
 
-[Trust]: https://github.com/oguxt
-[ts]: https://www.typescriptlang.org/docs/
-[prisma]: https://www.prisma.io/docs/getting-started/quickstart
-[vsc]: https://code.visualstudio.com/
-[duth]: https://github.com/oguxt
-[w3html5]: https://www.w3schools.com/html/
-[css3]: https://www.w3schools.com/css/
-[js]: https://www.w3schools.com/js/
-[cs]: https://www.w3schools.com/cs/
-[sql]: https://www.w3schools.com/sql/
-[github]: https://github.com/oguxt
-[node]: https://nodejs.org/
-[react]: https://legacy.reactjs.org/docs/getting-started.html
-[next]: https://nextjs.org
-[linkdin]: https://www.linkedin.com/in/gustavo-matozo-ab7ba3263/
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oguxt&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguxt&layout=compact&theme=midnight-purple&hide_border=true" width="38%" />
+</p>
+
+---
+
+## 🎧 Spotify
+
+<p align="center">
+  <a href="https://VGZ4D4.pythonanywhere.com/link">
+    <img
+      src="https://VGZ4D4.pythonanywhere.com?eq_color=7F3ACE&theme=dark"
+      alt="Current Spotify Song"
+    />
+  </a>
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+
+- 💬 Gosto de trocar ideias sobre tecnologia, projetos e carreira
+- 💼 Aberto para networking, colaboração ou freelas
+- 📧 Me chame no [LinkedIn](https://www.linkedin.com/in/gustavo-matozo-ab7ba3263/) ou por e-mail: gumatozo17.sp@gmail.com
+
+<p align="center">
+  <strong>Obrigado por visitar meu perfil! ⭐</strong>
+</p>
